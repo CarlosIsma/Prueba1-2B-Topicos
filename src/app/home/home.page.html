@@ -1,0 +1,37 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      <h1>Calificaciones</h1>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list class="ios list-ios hydrated">
+    <ion-list-header class="ios hydrated">
+      <h2>Estudiantes</h2>
+    </ion-list-header>
+
+    <ion-item *ngFor="let booking of Bookings" class="user-list">
+      <ion-label>
+        <h5>
+          <ion-icon name="person"></ion-icon> Estudiante: {{booking.nombre}}
+        </h5>
+        <p>
+          <ion-icon name="school-outline"></ion-icon> Materia: {{booking.materia}} 
+        </p>
+        <p>
+          <ion-icon name="school-outline"></ion-icon> Calificación: {{booking.calificacion}} /10
+        </p>
+      </ion-label>
+
+      <div class="item-note" item-end>
+        <button ion-button clear [routerLink]="['/edit-appointment/', booking.$key]">
+          <ion-icon name="create" style="zoom:2.0"></ion-icon>
+        </button>
+        <button ion-button clear (click)="deleteBooking(booking.$key)">
+          <ion-icon name="trash" style="zoom:2.0"></ion-icon>
+        </button>
+      </div>
+    </ion-item>
+  </ion-list>
