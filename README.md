@@ -17,10 +17,10 @@
 3. Agregamos las credenciales de Firebase.
 4. Hacemos el diseño de nuestra apliación.
 7. Visualización de CRUD
-![](https://raw.githubusercontent.com/CarlosIsma/Prueba1-2B-Topicos/master/imagenes/1.JPEG)
+![](https://raw.githubusercontent.com/CarlosIsma/Prueba1-2B-Topicos/master/imagenes/1.JPG)
 
 8. Base De Datos
-![](https://raw.githubusercontent.com/CarlosIsma/Prueba1-2B-Topicos/master/imagenes/1.JPG)
+![](https://raw.githubusercontent.com/CarlosIsma/Prueba1-2B-Topicos/master/imagenes/5.JPG)
 
 
 ### Resultado
