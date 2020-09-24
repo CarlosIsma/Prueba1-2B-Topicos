@@ -20,7 +20,7 @@
 ![](https://raw.githubusercontent.com/CarlosIsma/Prueba1-2B-Topicos/master/imagenes/1.JPEG)
 
 8. Base De Datos
-![](https://raw.githubusercontent.com/CarlosIsma/Prueba1-2B-Topicos/master/imagenes/2.JPEG)
+![](https://raw.githubusercontent.com/CarlosIsma/Prueba1-2B-Topicos/master/imagenes/1.JPG)
 
 
 ### Resultado
