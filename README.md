@@ -24,4 +24,6 @@
 
 
 ### Resultado
-
+![](https://raw.githubusercontent.com/CarlosIsma/Prueba1-2B-Topicos/master/imagenes/2.JPG)
+![](https://raw.githubusercontent.com/CarlosIsma/Prueba1-2B-Topicos/master/imagenes/3.JPG)
+![](https://raw.githubusercontent.com/CarlosIsma/Prueba1-2B-Topicos/master/imagenes/4.JPG)
